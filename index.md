@@ -1,37 +1,89 @@
-## Welcome to GitHub toto Pages
+# Tianqing LIU, FRM®
 
-You can use the [editor on GitHub](https://github.com/liuti-ma/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Product Manager** based in Paris, France  
+[Email](mailto:liutianqing@gmail.com) / [Website](https://www.liutianqing.com/) / [LinkedIn](https://www.linkedin.com/in/liutianqing/) / [GitHub](https://github.com/liuti-ma/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 👨‍💻 **Professional Experience**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **Risk Product Manager**  
+**[Moody's Analytics](https://www.moodys.com/)** _(Jun 2019 – Present)_  
+- Delivered seamless **SaaS integrations** for global financial institutions, including **Nedbank** and **OCBC**.  
+- Partnered with **engineering and commercial teams** to convert key opportunities into successful client projects.  
+- Developed and maintained **BI reporting tools**, ensuring consistent data accuracy and reliability for production systems.  
+- Enhanced operational efficiency by overseeing **release management** and resolving production incidents.  
+- Contributed to the continuous evolution of **Moody’s Banking Cloud Platform**, leveraging AWS and Agile methodologies.  
+- **_Technologies used:_** SaaS Platforms (AWS), BI Tools, SQL, Agile, Moody’s Banking Cloud Platform.  
 
-```markdown
-Syntax highlighted code block
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+### **Product Consultant**  
+**[Moody's Analytics](https://www.moodys.com/)** _(Jun 2015 – May 2019)_  
+- Implemented and customized **RiskFoundation Suite**, focusing on **credit risk**, **market risk**, and **liquidity risk management**.  
+- Designed and delivered **risk data aggregation**, regulatory reporting, and stress-testing solutions compliant with frameworks like **Basel** and **IFRS 9**.  
+- Streamlined **data integration pipelines**, ensuring precision in risk calculations and reporting.  
+- Provided **functional and technical support**, driving system adoption and performance optimization.  
+- Delivered **user training programs**, enabling institutions to fully leverage risk management tools.  
+- **_Technologies used:_** RiskFoundation Suite, SQL, ETL Tools, Basel, IFRS 9.  
 
-- Bulleted
-- List
+<br>
 
-1. Numbered
-2. List
+### **Software Engineer**  
+**[DXC Technology](https://dxc.com/fr/fr)** _(Apr 2011 – May 2015)_  
+- Developed and maintained **SEPAFactory**, a financial solution supporting **SEPA SDD** and **SCT** payment processes for major clients like Crédit Agricole and BPI-France.  
+- Integrated payment systems with client configurations, ensuring seamless operation and compliance.  
+- Delivered **user support** and optimized system configurations to enhance performance.  
+- **_Technologies used:_** Java JEE, PL/SQL, JSP, Web Design.  
 
-**Bold** and _Italic_ and `Code` text
+<br>
 
-[Link](url) and ![Image](src)
-```
+### **Data Analyst Intern**  
+**[AXA France](https://www.axa.fr/)** _(May 2010 – Sep 2010)_  
+- Designed and developed **specialized job boards** for internal use.  
+- Built **life table models** using **SAS statistical tools** to support actuarial analyses.  
+- Automated post-server build processes with custom **Visual Basic applications**.  
+- **_Technologies used:_** SAS, SQL, Excel, Visual Basic.  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+---
 
-### Jekyll Themes
+## 🎓 **Education**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuti-ma/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **Master’s Degree in Business Informatics (MIAGE)**  
+_Paris Dauphine University_ _(Sep 2009 – Oct 2011)_  
+Specialized in **Information Systems** and **Digital Transformation**, focusing on financial intelligence.  
 
-### Support or Contact
+<br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **Bachelor of Science in Computer Science**  
+_Pantheon-Sorbonne University_ _(Sep 2008 – Sep 2009)_  
+Specialized in **Information and Knowledge Systems Engineering and Management**.  
+
+---
+
+## 🌍 **Languages**
+
+- **Chinese:** Native  
+- **French:** Fluent  
+- **English:** Fluent  
+- **Spanish:** Conversational  
+
+---
+
+## 🏆 **Professional Certifications**
+
+- **Financial Risk Manager (FRM®)** – GARP  
+- **Certified SAFe® 5 Product Owner/Product Manager**  
+- **AWS Certified Cloud Practitioner**  
+- **Sustainability and Climate Risk (SCR®)** – GARP  
+
+---
+
+## 🛠 **Skills**
+
+- **Risk Management:** Basel, IFRS 9, Regulatory Reporting, Stress Testing  
+- **Technical Expertise:** Object-Oriented Design, Multi-Tier Architecture, Big Data, Cloud Architecture  
+- **Programming Languages:** Java, PL/SQL, SAS, Python  
+- **Cloud & Frameworks:** AWS, Microservices, API Development  
+- **Tools & Methodologies:** BI Tools, ETL, Agile, Docker, Kubernetes  
+- **Soft Skills:** Problem-Solving, Technical Presentations, Cross-Team Collaboration  
