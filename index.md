@@ -1,6 +1,7 @@
 # Tianqing LIU, FRM®
 
 **Product Manager** based in Paris, France  
+Banking professional with years of experience in various leadership positions focusing on product management, team growth, innovation, data and supporting company objectives through KPI driven management
 [Email](mailto:liutianqing@gmail.com) / [Website](https://www.liutianqing.com/) / [LinkedIn](https://www.linkedin.com/in/liutianqing/) / [GitHub](https://github.com/liuti-ma/)
 
 ---
@@ -19,11 +20,13 @@
 <br>
 
 ### **Product Consultant**  
-**[Moody's Analytics](https://www.moodys.com/)** _(Jun 2015 – May 2019)_  
+**[Moody's Analytics](https://www.moodys.com/)** _(Jun 2015 – May 2019)_
+- Managed over **10 client projects** across EMEA and APAC regions, delivering tailored solutions to financial institutions.
 - Implemented and customized **RiskFoundation Suite**, focusing on **credit risk**, **market risk**, and **liquidity risk management**.  
 - Designed and delivered **risk data aggregation**, regulatory reporting, and stress-testing solutions compliant with frameworks like **Basel** and **IFRS 9**.  
 - Streamlined **data integration pipelines**, ensuring precision in risk calculations and reporting.  
-- Provided **functional and technical support**, driving system adoption and performance optimization.  
+- Provided **functional and technical support**, driving system adoption and performance optimization.
+- Collaborated with high-profile clients such as **Credit Agricole**,**Rabobank**, **ING**, and **OCBC** to meet business and regulatory needs.  
 - Delivered **user training programs**, enabling institutions to fully leverage risk management tools.  
 - **_Technologies used:_** RiskFoundation Suite, SQL, ETL Tools, Basel, IFRS 9.  
 
