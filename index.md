@@ -1,7 +1,7 @@
 # Tianqing LIU, FRM®
 
 **Product Manager** based in Paris, France  
-Banking professional with years of experience in various leadership positions focusing on product management, team growth, innovation, data and supporting company objectives through KPI driven management
+Banking professional with years of experience in various leadership positions focusing on product management, team growth, innovation, data and supporting company objectives through KPI driven management<br>
 [Email](mailto:liutianqing@gmail.com) / [Website](https://www.liutianqing.com/) / [LinkedIn](https://www.linkedin.com/in/liutianqing/) / [GitHub](https://github.com/liuti-ma/)
 
 ---
