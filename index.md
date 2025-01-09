@@ -50,13 +50,13 @@
 ## 🎓 **Education**
 
 ### **Master’s Degree in Business Informatics (MIAGE)**  
-_Paris Dauphine University_ _(Sep 2009 – Oct 2011)_  
+###_Paris Dauphine-PSL University_ _(Sep 2009 – Oct 2011)_  
 Specialized in **Information Systems** and **Digital Transformation**, focusing on financial intelligence.  
 
 <br>
 
 ### **Bachelor of Science in Computer Science**  
-_Pantheon-Sorbonne University_ _(Sep 2008 – Sep 2009)_  
+###_Pantheon-Sorbonne University_ _(Sep 2008 – Sep 2009)_  
 Specialized in **Information and Knowledge Systems Engineering and Management**.  
 
 ---
