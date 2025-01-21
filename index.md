@@ -1,7 +1,6 @@
 # Tianqing LIU, FRM®
 
 **Product Manager** based in Paris, France  
-_Banking professional with years of experience in various leadership positions focusing on product management, team growth, innovation, data and supporting company objectives through KPI driven management_<br>
 [Email](mailto:liutianqing@gmail.com) / [Website](https://www.liutianqing.com/) / [LinkedIn](https://www.linkedin.com/in/liutianqing/) / [GitHub](https://github.com/liuti-ma/)
 
 ---
@@ -11,7 +10,7 @@ _Banking professional with years of experience in various leadership positions f
 ### **Risk Product Manager**  
 **[Moody's Analytics](https://www.moodys.com/)** _(Jun 2019 – Present)_  
 - Delivered seamless **SaaS integrations** for global financial institutions, including **Nedbank** and **OCBC**.  
-- Partnered with **engineering and commercial teams** to convert key opportunities into successful client projects.  
+- Collaborated with **engineering and commercial teams** to transform key opportunities into successful client projects.  
 - Developed and maintained **BI reporting tools**, ensuring consistent data accuracy and reliability for production systems.  
 - Enhanced operational efficiency by overseeing **release management** and resolving production incidents.  
 - Contributed to the continuous evolution of **Moody’s Banking Cloud Platform**, leveraging AWS and Agile methodologies.  
@@ -20,14 +19,13 @@ _Banking professional with years of experience in various leadership positions f
 <br>
 
 ### **Product Consultant**  
-**[Moody's Analytics](https://www.moodys.com/)** _(Jun 2015 – May 2019)_
-- Managed over **10 client projects** across EMEA and APAC regions, delivering tailored solutions to financial institutions.
-- Implemented and customized **RiskFoundation Suite**, focusing on **credit risk**, **market risk**, and **liquidity risk management**.  
+**[Moody's Analytics](https://www.moodys.com/)** _(Jun 2015 – May 2019)_  
+- Managed over **10 client projects** across Europe and APAC, delivering tailored solutions to financial institutions.  
+- Implemented and customized **RiskFoundation Suite**, focusing on **credit risk**, **market risk**, and **operational risk management**.  
 - Designed and delivered **risk data aggregation**, regulatory reporting, and stress-testing solutions compliant with frameworks like **Basel** and **IFRS 9**.  
 - Streamlined **data integration pipelines**, ensuring precision in risk calculations and reporting.  
-- Provided **functional and technical support**, driving system adoption and performance optimization.
-- Collaborated with high-profile clients such as **Credit Agricole**,**Rabobank**, **ING**, and **OCBC** to meet business and regulatory needs.  
-- Delivered **user training programs**, enabling institutions to fully leverage risk management tools.  
+- Collaborated with high-profile clients such as **Rabobank**, **BPCE**, and **OCBC** to meet business and regulatory needs.  
+- Delivered **training programs** for client teams, empowering them to fully leverage risk management tools.  
 - **_Technologies used:_** RiskFoundation Suite, SQL, ETL Tools, Basel, IFRS 9.  
 
 <br>
@@ -53,14 +51,38 @@ _Banking professional with years of experience in various leadership positions f
 ## 🎓 **Education**
 
 ### **Master’s Degree in Business Informatics (MIAGE)**  
-**_Paris Dauphine-PSL University_** _(Sep 2009 – Oct 2011)_ 
+_Paris Dauphine University_ _(Sep 2009 – Oct 2011)_  
 Specialized in **Information Systems** and **Digital Transformation**, focusing on financial intelligence.  
 
 <br>
 
 ### **Bachelor of Science in Computer Science**  
-**_Pantheon-Sorbonne University_** _(Sep 2008 – Sep 2009)_  
+_Pantheon-Sorbonne University_ _(Sep 2008 – Sep 2009)_  
 Specialized in **Information and Knowledge Systems Engineering and Management**.  
+
+---
+
+## 🏆 **Professional Certifications**
+
+- **Financial Risk Manager (FRM®)** – GARP  
+- **Certified SAFe® 5 Product Owner/Product Manager** – Scaled Agile  
+- **AWS Certified Cloud Practitioner** – Amazon Web Services  
+- **Sustainability and Climate Risk (SCR®)** – GARP  
+
+---
+
+## 🛠 **Skills**
+
+- **Risk Management:** Credit risk, market risk, operational risk, liquidity risk, stress testing.  
+- **Quantitative Analysis:** Value-at-risk (VaR), expected shortfall, portfolio optimization, statistical modeling.  
+- **Regulatory Compliance:** Expertise in Basel III, IFRS 9, regulatory reporting, and stress-testing frameworks.  
+- **Product Management:** Backlog prioritization, writing epics, features, and user stories, aligning with strategic goals.  
+- **Agile Development:** Participating in **PI Planning**, adopting Lean-Agile principles, and supporting DevOps practices.  
+- **Programming Languages:** Java, PL/SQL, SAS, Python.  
+- **Data & Analytics:** SQL, ETL tools, BI tools, statistical modeling, R.  
+- **Cloud & Frameworks:** AWS, microservices, API development, Docker, Kubernetes.  
+- **Financial Instruments:** Proficiency in derivatives, hedging strategies, and capital allocation.  
+- **Soft Skills:** Problem-solving, strategic decision-making, stakeholder communication, technical presentations.  
 
 ---
 
@@ -70,23 +92,3 @@ Specialized in **Information and Knowledge Systems Engineering and Management**.
 - **French:** Fluent  
 - **English:** Fluent  
 - **Spanish:** Conversational  
-
----
-
-## 🏆 **Professional Certifications**
-
-- **Financial Risk Manager (FRM®)** – GARP  
-- **Certified SAFe® 5 Product Owner/Product Manager**  
-- **AWS Certified Cloud Practitioner**  
-- **Sustainability and Climate Risk (SCR®)** – GARP  
-
----
-
-## 🛠 **Skills**
-
-- **Risk Management:** Basel, IFRS 9, Regulatory Reporting, Stress Testing  
-- **Technical Expertise:** Object-Oriented Design, Multi-Tier Architecture, Big Data, Cloud Architecture  
-- **Programming Languages:** Java, PL/SQL, SAS, Python  
-- **Cloud & Frameworks:** AWS, Microservices, API Development  
-- **Tools & Methodologies:** BI Tools, ETL, Agile, Docker, Kubernetes  
-- **Soft Skills:** Problem-Solving, Technical Presentations, Cross-Team Collaboration  
