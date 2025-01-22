@@ -4,6 +4,10 @@
 [Email](mailto:liutianqing@gmail.com) / [Website](https://www.liutianqing.com/) / [LinkedIn](https://www.linkedin.com/in/liutianqing/) / [GitHub](https://github.com/liuti-ma/)
 
 ---
+## 🌟 **Professional Summary**  
+Experienced **Product Manager** with over 10 years of expertise in financial technology, risk management, and SaaS solutions. Certified **FRM®, SAFe® 6 Product Owner/Product Manager**, and **SCR®** professional with a proven track record of delivering high-impact solutions for global financial institutions, including **Nedbank**, **OCBC**, and **Rabobank**. Skilled in Agile product development, risk analysis, and implementing scalable cloud-based platforms on **AWS**. Adept at collaborating cross-functionally to drive operational excellence, streamline regulatory compliance, and enhance customer satisfaction.
+
+---
 
 ## 👨‍💻 **Professional Experience**
 
@@ -65,7 +69,7 @@ Specialized in **Information and Knowledge Systems Engineering and Management**.
 ## 🏆 **Professional Certifications**
 
 - **Financial Risk Manager (FRM®)** – GARP  
-- **Certified SAFe® 5 Product Owner/Product Manager** – Scaled Agile  
+- **Certified SAFe® 6 Product Owner/Product Manager** – Scaled Agile  
 - **AWS Certified Cloud Practitioner** – Amazon Web Services  
 - **Sustainability and Climate Risk (SCR®)** – GARP  
 
